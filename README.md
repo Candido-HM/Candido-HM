@@ -11,7 +11,7 @@
 
 - 👨‍💻 Mis proyectos estan disponibles en [https://candido-hm-portfolio.netlify.app/](https://candido-hm-portfolio.netlify.app/)
 
-- 📫 Contactame **candidohm99@gamil.com**
+- 📫 Contactame **candidohm99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
