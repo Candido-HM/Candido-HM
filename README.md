@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=candido-hm&label=Profile%20views&color=0e75b6&style=flat" alt="candido-hm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=candido-hm" alt="candido-hm" /></a> </p>
+
 
 - 🔭 Actualmente estoy trabajando en [mi portfolio](https://candido-hm-portfolio.netlify.app/)
 
