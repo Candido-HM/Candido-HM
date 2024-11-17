@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Angular**
 
-- 👨‍💻 Mis proyectos estan disponibles en [https://candido-hm-portfolio.pages.dev/]([https://candido-hm-portfolio.pages.dev/](https://portfolio-devcand.pages.dev/))
+- 👨‍💻 Mis proyectos estan disponibles en [[https://candido-hm-portfolio.pages.dev/](https://portfolio-devcand.pages.dev/)]([https://candido-hm-portfolio.pages.dev/](https://portfolio-devcand.pages.dev/))
 
 - 📫 Contactame **candidohm99@gmail.com**
 
