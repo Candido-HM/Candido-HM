@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Actualmente estoy trabajando en [mi portfolio]([https://candido-hm-portfolio.netlify.app/](https://portfolio-devcand.pages.dev/))
+- 🔭 Actualmente estoy trabajando en [mi portfolio]([https://candido-hm-portfolio.netlify.app/](https://portfolio-devcand.pages.dev/)]
 
 - 🌱 Actualmente estoy aprendiendo **Angular**
 
